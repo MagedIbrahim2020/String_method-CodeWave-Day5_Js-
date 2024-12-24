@@ -1,0 +1,39 @@
+.main-div{
+    width: 30%;
+    margin: auto;
+    background-color:whitesmoke;
+    height: auto;
+    padding:20px 50px;
+}
+.task1,.task2,.task3,.task4{
+ margin-left: 35px;
+}
+h3{
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: blue;
+    border: 0px;
+    border-radius: 5px;
+    padding: 2px 10px;
+    cursor: pointer;
+}
+.task2 button,.task1 button{
+    width: 100px;
+}
+.task2 button , .task3 button,.task1 button{
+    margin-left: 150px;
+}
+.task2 input{
+    width: 80%;
+}
+.task3 input{
+    width: 18vw;
+}
+.task1 input{
+    width: 22vw;
+}
+.task4 input{
+    width: 13vw;
+}
